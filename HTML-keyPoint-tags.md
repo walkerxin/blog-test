@@ -1,4 +1,4 @@
-<h1 style="text-align:center">浅谈 HTML 标签</h1>
+<h1 style="text-align:center">HTML 重难点标签</h1>
 
 > HTML 是一种定义网页内容结构的标记语言，全称 Hyper Text Markup Language ;<br>
 > 对于 HTML 标签，如果懂得标签所代表的英文单词，基本上就知道这个标签的作用。
